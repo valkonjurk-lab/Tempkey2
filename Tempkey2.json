@@ -7,16 +7,11 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  
-  {
-    "id": "6ad2e9c57a745025",
+    "id": "be1619c8fa15e434",
     "username": "penum",
     "password": "kdo1",
-    "expiresAt": "2999-12-31",
+    "expiresAt": "2025-11-30",
     "allowOffline": true
-  },
+  
+  {
+  
