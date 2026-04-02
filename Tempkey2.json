@@ -14,3 +14,12 @@
     "allowOffline": true
   }
 ]
+
+[
+  {
+    "id": "6ad2e9c57a745025",
+    "username": "admin",
+    "password": "admin1",
+    "expiresAt": "2099-12-31",
+    "allowOffline": true
+  },
