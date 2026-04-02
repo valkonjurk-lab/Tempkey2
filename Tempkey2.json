@@ -12,12 +12,11 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  }
-]
-{
-    "id": "be1619c8fa15e434",
-    "username": "PENUM",
-    "password": "AUGRYJAHA",
+  
+  {
+    "id": "6ad2e9c57a745025",
+    "username": "penum",
+    "password": "kdo1",
     "expiresAt": "2999-12-31",
     "allowOffline": true
   },
