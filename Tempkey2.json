@@ -12,10 +12,7 @@
     "password": "kdo2",
     "expiresAt": "2099-12-31",
     "allowOffline": true
-  }
-]
-
-[
+  },
   {
     "id": "02f908bde7c8dd6b",
     "username": "admin",
@@ -23,3 +20,4 @@
     "expiresAt": "2099-12-31",
     "allowOffline": true
   } 
+]
