@@ -49,6 +49,13 @@
     "allowOffline": true
   },
   {
+    "id": "3a342c3709b86d3b",
+    "username": "admin",
+    "password": "admin2",
+    "expiresAt": "2027-05-13",
+    "allowOffline": true
+  },
+  {
     "id": "d0fadbed0a2e510c",
     "username": "jun",
     "password": "juntengjaha123",
