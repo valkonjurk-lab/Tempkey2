@@ -112,6 +112,13 @@
     "allowOffline": true
   },
   {
+    "id": "0a148892a82e4f5b",
+    "username": "admin",
+    "password": "admin123",
+    "expiresAt": "2026-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "d0fadbed0a2e510c",
     "username": "jun",
     "password": "juntengjaha123",
